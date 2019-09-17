@@ -1,4 +1,5 @@
-# awesomepos
+#awesomepos
+vue-cli 收银员项目 
 
 > A Vue.js project
 
